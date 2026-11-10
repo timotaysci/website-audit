@@ -2,3 +2,7 @@ __pycache__/
 *.json
 *.log
 *~
+robots.txt
+sitemap.xml
+headers.txt
+*.pdf
